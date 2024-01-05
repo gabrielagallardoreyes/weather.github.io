@@ -1,5 +1,5 @@
 <div>
-  <h1> Likes </h1>
+  <h1> Weather </h1>
   <h3> Author --> https://github.com/gabrielagallardoreyes </h3>
   <ul>
     <li>Preview: https://gabrielagallardoreyes.github.io/weather.github.io/ </li>
